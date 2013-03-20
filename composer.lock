@@ -1,14 +1,14 @@
 {
-    "hash": "698d03e8ca5664767f691036a7462c56",
+    "hash": "21837592e1cf35b24d4826e05ac472d3",
     "packages": [
         {
             "name": "tdd-php/lib-simple-calc",
-            "version": "dev-master",
+            "version": "v0.1.0",
             "target-dir": "Gajdaw/TddExamples/SimpleCalc",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tdd-php/lib-simple-calc.git",
-                "reference": "0aa6d1d02b0acc463de118d534f9bf6faac2ec27"
+                "reference": "v0.1.0"
             },
             "require": {
                 "php": ">=5.3.3"
@@ -39,9 +39,9 @@
 
     ],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "tdd-php/lib-simple-calc": 20
-    },
+    "stability-flags": [
+
+    ],
     "platform": {
         "php": ">=5.3.3"
     },
