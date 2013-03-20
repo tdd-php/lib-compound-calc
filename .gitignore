@@ -2,3 +2,5 @@
 /coverage/
 /docs/
 /phpcs/
+/vendor/
+
