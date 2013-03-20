@@ -1,10 +1,10 @@
-TDD PHP Example: SimpleCalc Library
-=========================
+TDD PHP Example: CompoundCalc Library
+=====================================
 
-[![Build Status](https://secure.travis-ci.org/tdd-php/lib-simple-calc.png?branch=master)](http://travis-ci.org/tdd-php/lib-simple-calc)
+[![Build Status](https://secure.travis-ci.org/tdd-php/lib-compound-calc.png?branch=master)](http://travis-ci.org/tdd-php/lib-compound-calc)
 
-Example application using `tdd-php/lib-simple-calc` library
-is available at (https://github.com/tdd-php/app-simple-calc).
+Example application using `tdd-php/lib-compound-calc` library
+is available at (https://github.com/tdd-php/app-compound-calc).
 
 How to run tests?
 -----------------
@@ -16,7 +16,7 @@ How to run tests?
 How to generate zipped archive?
 -------------------------------
 
-    git archive --format=zip --output=../lib-simple-calc-master.zip HEAD
+    git archive --format=zip --output=../lib-compound-calc-master.zip HEAD
 
 
 How to generate API documentation with PhpDocumentor?

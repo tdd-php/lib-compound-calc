@@ -1,7 +1,7 @@
 {
-    "name": "tdd-php/lib-simple-calc",
+    "name": "tdd-php/lib-compound-calc",
     "type": "library",
-    "description": "Example math operations: addition, subtraction, multiplication, division",
+    "description": "Compound math operations",
     "keywords": [],
     "license": "MIT",
     "authors": [
@@ -11,10 +11,17 @@
         }
     ],
     "require": {
-        "php": ">=5.3.3"
+        "php": ">=5.3.3",
+        "tdd-php/lib-simple-calc": "@dev"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:tdd-php/lib-simple-calc.git"
+        }
+    ],
     "autoload": {
-        "psr-0": { "Gajdaw\\TddExamples\\SimpleCalc": "" }
+        "psr-0": { "Gajdaw\\TddExamples\\CompoundCalc": "" }
     },
-    "target-dir": "Gajdaw/TddExamples/SimpleCalc"
+    "target-dir": "Gajdaw/TddExamples/CompoundCalc"
 }
