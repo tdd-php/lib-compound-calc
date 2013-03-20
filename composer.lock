@@ -1,5 +1,5 @@
 {
-    "hash": "bb806647e35c5cb123217ad5ab89aaad",
+    "hash": "698d03e8ca5664767f691036a7462c56",
     "packages": [
         {
             "name": "tdd-php/lib-simple-calc",
@@ -10,12 +10,6 @@
                 "url": "https://github.com/tdd-php/lib-simple-calc.git",
                 "reference": "0aa6d1d02b0acc463de118d534f9bf6faac2ec27"
             },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/tdd-php/lib-simple-calc/zipball/0aa6d1d02b0acc463de118d534f9bf6faac2ec27",
-                "reference": "0aa6d1d02b0acc463de118d534f9bf6faac2ec27",
-                "shasum": ""
-            },
             "require": {
                 "php": ">=5.3.3"
             },
@@ -25,16 +19,13 @@
                     "Gajdaw\\TddExamples\\SimpleCalc": ""
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
             "authors": [
                 {
                     "name": "Włodzimierz Gajda",
-                    "email": "gajdaw@gajdaw.pl",
-                    "homepage": "http://gajdaw.pl",
-                    "role": "Developer"
+                    "email": "gajdaw@gajdaw.pl"
                 }
             ],
             "description": "Example math operations: addition, subtraction, multiplication, division",
