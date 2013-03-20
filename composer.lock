@@ -1,14 +1,14 @@
 {
-    "hash": "21837592e1cf35b24d4826e05ac472d3",
+    "hash": "0c1c048bd3e976d79aa9a2bfb5afbf32",
     "packages": [
         {
             "name": "tdd-php/lib-simple-calc",
-            "version": "v0.1.0",
+            "version": "v1.0.0",
             "target-dir": "Gajdaw/TddExamples/SimpleCalc",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tdd-php/lib-simple-calc.git",
-                "reference": "v0.1.0"
+                "reference": "v1.0.0"
             },
             "require": {
                 "php": ">=5.3.3"
@@ -29,7 +29,7 @@
                 }
             ],
             "description": "Example math operations: addition, subtraction, multiplication, division",
-            "time": "2013-03-15 16:03:20"
+            "time": "2013-03-20 08:16:55"
         }
     ],
     "packages-dev": [
