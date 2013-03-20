@@ -12,14 +12,8 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "tdd-php/lib-simple-calc": "@dev"
+        "tdd-php/lib-simple-calc": "dev-master"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:tdd-php/lib-simple-calc.git"
-        }
-    ],
     "autoload": {
         "psr-0": { "Gajdaw\\TddExamples\\CompoundCalc": "" }
     },
